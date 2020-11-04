@@ -18,6 +18,12 @@ public class App
         //TODO
         // See question P8.5
 
+        System.out.println(sc1.toString());
+
+        System.out.printf("Surface Area : %.2f\n", sc1.getSurfaceArea());
+        System.out.printf("Volume : %.2f\n", sc1.getVolume());
+
+
 
     }
 }
